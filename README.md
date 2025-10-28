@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b> Active Directory Homelab </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory](https://github.com/lsolanoy/ActiveDirectoryHomelab)
 
 <h2> 🤳 Connect with me:</h2>
 
