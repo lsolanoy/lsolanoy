@@ -4,6 +4,7 @@
 
 - <b> Active Directory Homelab </b>
   - [Active Directory](https://github.com/lsolanoy/ActiveDirectoryHomelab)
+  - [Exploring AD](https://github.com/lsolanoy/Exploring-AD)
 
 <h2> 🤳 Connect with me:</h2>
 
