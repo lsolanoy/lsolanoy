@@ -5,7 +5,7 @@
 - <b> Virtualized Homelab </b>
   - [Active Directory](https://github.com/lsolanoy/ActiveDirectoryHomelab)
   - [Exploring AD](https://github.com/lsolanoy/Exploring-AD)
-  - [Linux]
+  - [Linux](https://github.com/lsolanoy/Linux)
 
 <h2> 🤳 Connect with me:</h2>
 
