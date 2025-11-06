@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b> Active Directory Homelab </b>
+- <b> Virtualized Homelab </b>
   - [Active Directory](https://github.com/lsolanoy/ActiveDirectoryHomelab)
   - [Exploring AD](https://github.com/lsolanoy/Exploring-AD)
+  - [Linux]
 
 <h2> 🤳 Connect with me:</h2>
 
