@@ -7,6 +7,7 @@
   - [Exploring AD](https://github.com/lsolanoy/Exploring-AD)
   - [Linux](https://github.com/lsolanoy/Linux)
   - [Remote Support](https://github.com/lsolanoy/Remote-Support-Tools)
+  - [Ticketing System](https://github.com/lsolanoy/Ticketing-System)
 
 <h2> 🤳 Connect with me:</h2>
 
