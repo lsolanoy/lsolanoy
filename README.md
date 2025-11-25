@@ -8,6 +8,7 @@
   - [Linux](https://github.com/lsolanoy/Linux)
   - [Remote Support](https://github.com/lsolanoy/Remote-Support-Tools)
   - [Ticketing System](https://github.com/lsolanoy/Ticketing-System)
+  - [Scripting](https://github.com/lsolanoy/Scripting)
 
 <h2> 🤳 Connect with me:</h2>
 
